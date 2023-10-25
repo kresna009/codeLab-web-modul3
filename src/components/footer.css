@@ -1,0 +1,7 @@
+.footer-container {
+  background-color: #393E46;
+
+  bottom: 0;
+  height: 10rem;
+  z-index: 1000;
+}
